@@ -9,4 +9,7 @@
   .button {
     @apply bg-soft-blue text-white text-sm block w-[151px] h-12 py-[10px] px-4 rounded-md font-medium;
   }
+  .indicator {
+    transition: left 0.4s;
+  }
 }
